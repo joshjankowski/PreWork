@@ -1,0 +1,10 @@
+1. The image of the dog was missing brackets <>
+2. The a href was missing the link to wikipedia
+3. Boo the Dog was missing <h1> around the title of the webpage
+4. Array was missing from line 2 and 3 of the code
+5. pink was missing the "" on line 9
+6. line 21 was missing "" around click
+7. it wasnt calling the right javascript file, changed from errors.js to logic.js
+8. line 26 was also missing "" around click
+9. the buttons on the html file were mislabeled, orange is green, pink is orange, green is pink
+10. quotes were missing from the random boo facts to separate each fact

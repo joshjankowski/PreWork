@@ -1,0 +1,38 @@
+.center {
+    text-align: center;
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.big {
+    font-size: 100px;
+}
+.tiny {
+    font-size: 5px;
+}
+.bold {
+    font-weight: bold;
+}
+.helvetica {
+    font-family: Helvetica, sans-serif;
+}
+.multi {
+    color: orange;
+    font-weight: bold;
+    font-size: 100px;
+}
+.styledFont {
+    color: cyan;
+    font-weight: underline;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#styledImage {
+    border-style: solid; 
+}
